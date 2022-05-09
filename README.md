@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @morewme
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on new proggramers students like me
+- 💞️ I’m looking to collaborate on new proggraming students like me
 - 📫 How to reach me bianca.demari98@gmail.com
 
 <!---
