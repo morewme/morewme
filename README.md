@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @morewme
+- 👋 Hi, I’m @morewme - Bianca Mari
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate with other programming students
