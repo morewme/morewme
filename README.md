@@ -1,5 +1,5 @@
-## ✨Hello World✨
-# Welcome to my Github profile
+# ✨Hello World✨
+## Welcome to my Github profile
 
 - 👋 I’m Bianca Mari - you can find me as @morewme
 - 👀 I’m interested in front-end
@@ -16,6 +16,12 @@
 <a href="https://www.linkedin.com/in/devbiancamari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Projects at GitHub Pages
+<div>
+  <a href"https://morewme.github.io/bikcraft-main/"><p> Bikcraft</p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+</div>
+
+## Fun stuff
 <div>
 <a href="https://github.com/morewme">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morewme&layout=compact&langs_count=7&theme=dracula"/>
