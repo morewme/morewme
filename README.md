@@ -21,12 +21,9 @@
 </div>
 
 ## Projects at GitHub Pages
-            <i class="devicon-github-original colored"></i>
           
 <div>
-  <a href"https://morewme.github.io/bikcraft-main/"><p> Bikcraft</p>
-            <i class="devicon-github-original colored"></i>
-          </a>
+  <a href"https://morewme.github.io/bikcraft-main/"><p> Bikcraft</p></a>
 </div>
 
 ## Fun stuff
