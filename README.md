@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate with other programming students
 - 📫 How to reach me dev.biancamari@gmail.com
 
-## My links:
+## My links
 
 <div>
 <a href="https://twitter.com/devbiancamari" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -22,7 +22,7 @@
 
 ## Projects at GitHub Pages
 
-<a href="https://morewme.github.io/bikcraft-main/">Bikcraft</a>
+<a href="https://morewme.github.io/bikcraft-main/">🚴‍♀️Bikcraft</a>
 
 ## Fun stuff
 <div>
