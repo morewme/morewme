@@ -11,6 +11,10 @@
 - 💞️ I’m looking to collaborate with other programming students
 - 📫 How to reach me dev.biancamari@gmail.com
 
+## Projects at GitHub Pages
+
+<a href="https://morewme.github.io/bikcraft-main/"> 🚴‍ Bikcraft</a>
+
 ## My links
 
 <div>
@@ -19,10 +23,6 @@
 <a href = "mailto:dev.biancamari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/devbiancamari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-## Projects at GitHub Pages
-
-<a href="https://morewme.github.io/bikcraft-main/">- 🚴‍ Bikcraft</a>
 
 ## Fun stuff
 <div>
