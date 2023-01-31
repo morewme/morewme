@@ -28,8 +28,8 @@
 ## Fun stuff
 <div>
 <a href="https://github.com/morewmw">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=morewme&show_icons=true&theme=buefy&hide=prs&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morewme&layout=compact&langs_count=7&theme=buefy&card_width=100px"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=morewme&show_icons=true&theme=buefy&hide=prs&count_private=true&card_width=45%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morewme&layout=compact&langs_count=7&theme=buefy&card_width=45%"/>
 </div>
 
   
