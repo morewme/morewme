@@ -22,7 +22,7 @@
 
 ## Projects at GitHub Pages
 
-<a href="https://morewme.github.io/bikcraft-main/">Woman Biking on Twitter Twemoji 14.0♀️Bikcraft</a>
+<a href="https://morewme.github.io/bikcraft-main/">- 🚴‍ Bikcraft</a>
 
 ## Fun stuff
 <div>
