@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @morewme - Bianca Mari
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning HTML, CSS and JavaScript <i class="devicon-html5-plain"></i>
-            <i class="devicon-css3-plain"></i>
-          
-            <i class="devicon-javascript-plain"></i>
-          
-            <i class="devicon-javascript-plain colored"></i>
-          
+- 🌱 I’m currently learning HTML, CSS and JavaScript          
 - 💞️ I’m looking to collaborate with other programming students
 - 📫 How to reach me dev.biancamari@gmail.com
 
@@ -19,7 +13,6 @@
 ## Links:
 
 <div>
-<a href="https://www.figma.com/files/user/1126242842311709529?fuid=1126242842311709529" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/devbiancamari" target="_blank"><img src="https://img.shields.io/badge/-Figma-%23E4405F?style=for-the-badge&logo=figma&logoColor=white></a>
 <a href="https://www.twitch.tv/morewme" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:dev.biancamari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
