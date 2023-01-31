@@ -12,7 +12,7 @@
 - 📫 How to reach me dev.biancamari@gmail.com
 
 ## Projects at GitHub Pages
-<a href="https://morewme.github.io/bikcraft-main/"> 🚴‍ Bikcraft</a>
+<a href="https://morewme.github.io/bikcraft-main/"> 🚴‍ Bikcraft</a><br>
 <a href="https://morewme.github.io/aluraplus/"> 🖥️ AluraPlus</a>
 
 
