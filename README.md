@@ -23,7 +23,7 @@
 ## Projects at GitHub Pages
           
 <div>
-  <a href"https://morewme.github.io/bikcraft-main/"><p> Bikcraft</p></a>
+  <a href"https://morewme.github.io/bikcraft-main/">Bikcraft</a>
 </div>
 
 ## Fun stuff
