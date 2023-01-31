@@ -29,7 +29,7 @@
 <div>
 <a href="https://github.com/morewmw">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morewme&layout=compact&langs_count=7&theme=buefy"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=morewme&show_icons=true&theme=buefy&hide=stars,commits,issues,contribs&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=morewme&show_icons=true&theme=buefy&hide=prs&count_private=true"/>
 </div>
 
   
