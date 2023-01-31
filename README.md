@@ -27,10 +27,10 @@
 
 ## Fun stuff
 <div>
-<a href="https://github.com/morewme">
+<a href="https://github.com/morewmw">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morewme&layout=compact&langs_count=7&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=morewme&show_icons=true&theme=buefy&hide=stars,commits,prs,issues,contribs&count_private=true"/>
 </div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morewme)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
