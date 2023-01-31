@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+
 # ✨Hello World✨
 ## Welcome to my Github profile
 
@@ -18,7 +22,9 @@
 
 ## Projects at GitHub Pages
 <div>
-  <a href"https://morewme.github.io/bikcraft-main/"><p> Bikcraft</p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+  <a href"https://morewme.github.io/bikcraft-main/"><p> Bikcraft</p>
+            <i class="devicon-github-original colored"></i>
+          </a>
 </div>
 
 ## Fun stuff
