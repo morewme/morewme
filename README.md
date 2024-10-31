@@ -15,22 +15,14 @@
 <a href="https://morewme.github.io/bikcraft-main/"> 🚴‍ Bikcraft</a><br>
 <a href="https://morewme.github.io/aluraplus/"> 🖥️ AluraPlus</a>
 
+## MAIL
 
-## My links
+[dev.biancamari@gmail.com](mailto:dev.biancamari@gmail.com)  
 
-<div>
-<a href="https://twitter.com/devbiancamari" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.twitch.tv/morewme" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:dev.biancamari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/devbiancamari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## SOCIAL
 
-## Fun stuff
-<div>
-<a href="https://github.com/morewmw">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=morewme&show_icons=true&theme=buefy&hide=prs&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morewme&layout=compact&langs_count=7&theme=buefy"/>
-</div>
+[Twitter](https://x.com/morewme)  
+[Linkedin](https://www.linkedin.com/in/morewme)
 
-  
+
 
