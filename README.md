@@ -2,11 +2,11 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 
-## Projects at GitHub Pages
+## Projetos no GitHub Pages
 <a href="https://morewme.github.io/bikcraft-main/"> 🚴‍ Bikcraft</a><br>
 <a href="https://morewme.github.io/aluraplus/"> 🖥️ AluraPlus</a>
 
-## MAIL
+## EMAIL
 
 [dev.biancamari@gmail.com](mailto:dev.biancamari@gmail.com)  
 
