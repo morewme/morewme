@@ -8,7 +8,7 @@
 
 ## EMAIL
 
-[dev.biancamari@gmail.com](mailto:dev.biancamari@gmail.com)  
+[morewme@outlook.com](mailto:morewme@outlook.com)  
 
 ## SOCIAL
 
